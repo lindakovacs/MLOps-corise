@@ -3,7 +3,8 @@ Acquire the skills to build effective real-world ML systems (bootstrapping datas
 
 ## Week1 Project: https://colab.research.google.com/drive/1Qr23IVD_3iBoWnJDPWTrFVcMVMTULAKq?usp=sharing
 ## Week2 Project: https://colab.research.google.com/drive/1AHWzVHrAVbIrKo6NaL-fLGKlk-KbOuYj?usp=sharing
-## Week3 GitPod: https://lindakovacs-mlopscorise-zhtf98vv5gx.ws-us54.gitpod.io
+## Week3 GitPod: https://lindakovacs-mlopscorise-fo44f3v4179.ws-us54.gitpod.io
+## https://8000-lindakovacs-mlopscorise-fo44f3v4179.ws-us54.gitpod.io/docs 
 
 ## Introduction
 
