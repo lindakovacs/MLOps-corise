@@ -1,10 +1,9 @@
 ## MLOps: From Models to Production - Co:rise https://corise.com/course/mlops
 Acquire the skills to build effective real-world ML systems (bootstrapping datasets, improving label quality, experimentation, model evaluation, deployment and observability) with hands-on projects. This course will help you bridge the gap between state-of-the-art ML modeling, and building real-world ML systems.
 
-# Week1 Project: https://colab.research.google.com/drive/1Qr23IVD_3iBoWnJDPWTrFVcMVMTULAKq?usp=sharing
-# Week2 Project: https://colab.research.google.com/drive/1AHWzVHrAVbIrKo6NaL-fLGKlk-KbOuYj?usp=sharing
-
-# Week3 GitPod: https://lindakovacs-mlopscorise-zhtf98vv5gx.ws-us54.gitpod.io
+## Week1 Project: https://colab.research.google.com/drive/1Qr23IVD_3iBoWnJDPWTrFVcMVMTULAKq?usp=sharing
+## Week2 Project: https://colab.research.google.com/drive/1AHWzVHrAVbIrKo6NaL-fLGKlk-KbOuYj?usp=sharing
+## Week3 GitPod: https://lindakovacs-mlopscorise-zhtf98vv5gx.ws-us54.gitpod.io
 
 ## Introduction
 
