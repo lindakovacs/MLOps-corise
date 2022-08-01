@@ -93,7 +93,7 @@ class NewsCategoryClassifier:
         }
         """
 
-        predictions = self.pipeline_proba([model_input])
+        predictions = self.pipeline.predict_proba([model_input])
         classes_to_probs = dict(zip(self.classes, predictions[0].tolist()))
 
         return classes_to_probs
